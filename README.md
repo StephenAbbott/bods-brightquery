@@ -2,6 +2,8 @@
 
 Transform [BrightQuery](https://brightquery.com/) / OpenData.org data into [Beneficial Ownership Data Standard (BODS)](https://standard.openownership.org/) v0.4 format.
 
+Part of the [BODS Interoperability Toolkit](https://github.com/StephenAbbott/bods-interoperability-toolkit).
+
 ## Overview
 
 This pipeline ingests BrightQuery Senzing JSONL data (organizations and people-business records) and produces BODS v0.4 compliant statements, including:
